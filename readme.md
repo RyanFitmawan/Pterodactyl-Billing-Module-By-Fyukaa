@@ -1,4 +1,4 @@
-# Pterodactyl Billing Module By Fyukaa
+# Pterodactyl Billing Module By RyanFitmawan
 How To Install?
 > Extract The Folder First.
 > Upload The Files into /var/www
